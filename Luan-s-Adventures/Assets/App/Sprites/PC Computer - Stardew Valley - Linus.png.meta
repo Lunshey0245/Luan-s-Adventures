@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: caffbd06038fdeb4d99a189788b55851
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 386
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 14, z: 11, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a06687c73d10409faa4dbe64b31db
+      internalID: -412195546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 309
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5967701d743e354e820be158da80194
+      internalID: -1695007382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 233
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0266e14ef9976fb41b05e1ea8d488f4a
+      internalID: 144151234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 191
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009fcd2eaf7911f4eb268651be1cdec3
+      internalID: 1962898551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 191
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc14b97fe216f42b85815d0f1279cc
+      internalID: -1084805845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 191
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00185c867f548e9458ac8acec2c15693
+      internalID: 1305180442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 191
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9704f6dc989755b46b2ffaab24c49f2d
+      internalID: 1632722496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 157
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4155dccd8c7420a4da5092875564ba5d
+      internalID: -797062680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 159
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c082078889b2fa46995dcdf69c4391a
+      internalID: 402141501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 159
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be31aeb8b4de544fab00d12dbfc37d0
+      internalID: 1308173758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 159
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995af61b3c403f742a1ccb44d404a465
+      internalID: 1980462897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 159
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629961754907eee4a99dd99625b1ec01
+      internalID: 1366004442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 127
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e52004c7efdd4c40b4fb117af1d3ef2
+      internalID: 394491760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b60af227b42fc4ab04bcf358d962b7
+      internalID: 1243438963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 127
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b6f9bdddf5904b8f930ab4241d474
+      internalID: -243451224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389504e1c0159cf4baa7aef1cf2d0821
+      internalID: 1477699016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 81
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf13e6cc9ad96749b8fa221b22defff
+      internalID: 1881740384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 95
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21d5534536ecf489b7bfc1916e536f
+      internalID: 1163417214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4c780f6363c974fa4572b0c0a83cc9
+      internalID: -2145627562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 95
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cbec019f6516b43b37e644003e6244
+      internalID: -1744097721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 95
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a835a2ed714493341bf44931dd48ff8b
+      internalID: 1201112957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 63
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bbbece731ff8d43a8aeb5a68d40f4b
+      internalID: 678050550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 63
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115ace5e83386c64499e4dd8b5ff7954
+      internalID: 1400665194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 63
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38884c01908068c4885c8b7ab08a6b14
+      internalID: 1946277709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9ec72a5eac6c49bf575f1d157a126
+      internalID: 1395981438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 152
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081f3e161a9a76c47846eb4047253936
+      internalID: 931485398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 31
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ac9fa7fb98494a93075efc5298545
+      internalID: -1685372829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a38b496a9b4834da935acd31e8555c
+      internalID: -1091487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a01f6dc79454e47aa7a0b9f02fa0d0
+      internalID: -1479915599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Linus_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 19, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9716a4c6481da42bf1a5ec118bb97a
+      internalID: 881048115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Linus_0: -412195546
+      PC Computer - Stardew Valley - Linus_1: -1695007382
+      PC Computer - Stardew Valley - Linus_10: 1980462897
+      PC Computer - Stardew Valley - Linus_11: 1366004442
+      PC Computer - Stardew Valley - Linus_12: 394491760
+      PC Computer - Stardew Valley - Linus_13: 1243438963
+      PC Computer - Stardew Valley - Linus_14: -243451224
+      PC Computer - Stardew Valley - Linus_15: 1477699016
+      PC Computer - Stardew Valley - Linus_16: 1881740384
+      PC Computer - Stardew Valley - Linus_17: 1163417214
+      PC Computer - Stardew Valley - Linus_18: -2145627562
+      PC Computer - Stardew Valley - Linus_19: -1744097721
+      PC Computer - Stardew Valley - Linus_2: 144151234
+      PC Computer - Stardew Valley - Linus_20: 1201112957
+      PC Computer - Stardew Valley - Linus_21: 678050550
+      PC Computer - Stardew Valley - Linus_22: 1400665194
+      PC Computer - Stardew Valley - Linus_23: 1946277709
+      PC Computer - Stardew Valley - Linus_24: 1395981438
+      PC Computer - Stardew Valley - Linus_25: 931485398
+      PC Computer - Stardew Valley - Linus_26: -1685372829
+      PC Computer - Stardew Valley - Linus_27: -1091487
+      PC Computer - Stardew Valley - Linus_28: -1479915599
+      PC Computer - Stardew Valley - Linus_29: 881048115
+      PC Computer - Stardew Valley - Linus_3: 1962898551
+      PC Computer - Stardew Valley - Linus_4: -1084805845
+      PC Computer - Stardew Valley - Linus_5: 1305180442
+      PC Computer - Stardew Valley - Linus_6: 1632722496
+      PC Computer - Stardew Valley - Linus_7: -797062680
+      PC Computer - Stardew Valley - Linus_8: 402141501
+      PC Computer - Stardew Valley - Linus_9: 1308173758
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

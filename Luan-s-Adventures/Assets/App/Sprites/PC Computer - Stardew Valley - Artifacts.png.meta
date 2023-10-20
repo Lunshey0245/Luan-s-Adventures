@@ -1,0 +1,1433 @@
+fileFormatVersion: 2
+guid: 25c12db1883e846418673766835a306d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3bb22abfa462846864b36f8de6fbe5
+      internalID: 581639515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28c7fe4197ee284aabf0f8fd56b1f26
+      internalID: 1286615200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a321102d56139bb4dbdc2b2233eab7b9
+      internalID: -173530195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4276f57ae525c24fbf236848900f3cb
+      internalID: -1752302417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e361490e0a0c4c409bbc37cf9f91561
+      internalID: 203833268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 70
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d85d83729d5f3c4ba893a56511d8cd5
+      internalID: -1748726057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d3e87c80646c49b53974f08a782f9
+      internalID: 2113101615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9512c0783bc2494db63f284d4408fc3
+      internalID: -99823875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff50476de6fe4a4fa1b6770e3a393f6
+      internalID: 1655416077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28bb250a3c79fb4882fba29ef03fde2
+      internalID: -2107535699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1134814db3665648a06b938b643717a
+      internalID: 1547099098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 70
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c4423bdd949354594d22bbdf3e859e
+      internalID: 87829196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef41f23fa9f482479c40206d8de5ba0
+      internalID: -359895138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 69
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c7f236a2de724cb9a8aca26e3398c
+      internalID: -613734475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e77b8224f04eea4886fa45e34e6a2fa
+      internalID: -950399471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 70
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c13e93939fcf646951191d5fa0453e
+      internalID: -1148010014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ac82171a5b6747909d7438a6b84b6
+      internalID: -2046938073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 69
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9710ccaae3caf04db7fcf5d7b1d6b0b
+      internalID: 1074757142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc7cb5237345f428f82d6cb38066f2
+      internalID: -471872031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 69
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982827379a424de4fa7a06174aed216a
+      internalID: 1875338627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 69
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f4ef64a349bc4f83c9f4c99c4bc4b
+      internalID: 1754316323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 69
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e108b974e935f3409a6a97f9485d171
+      internalID: -112427858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 70
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c09d82dc4aff74f8126eb094bf3270
+      internalID: 676265093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77d91c94e55f248bad8b27af3b62d5
+      internalID: 2138059569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26beb9fb929245d42bdd18abc7042f8c
+      internalID: 1129617725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9854ec667b3a2754a8e1526d62ff94aa
+      internalID: 1645928246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166b33b05382aa4abd9ff72afa63050
+      internalID: 1318437827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0f9071a3ac27f459acb5547b090afb
+      internalID: 98919155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8dfead50256484ba6e7ecba9b28899
+      internalID: 645453681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 43
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114639b5c340fac4aa70488f688128c1
+      internalID: 1265467165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 42
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472359f8c16531d4ba5e38ee85ce1daf
+      internalID: -1459110577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 42
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6793390519f45b4a9bdca1c319ed422
+      internalID: 1150897179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c448b2a762d40b48aa43fa030c6cd49
+      internalID: 318807934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 42
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e8716b7ff204a40af2470ab44c455d
+      internalID: 124261481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 41
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704b4fa9f57e24144be0a986c537bd3f
+      internalID: 2003021916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c6bd2f701b1a8479fdff1ab0a584b0
+      internalID: 1334051460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 40
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ceb4fc716c9974d9f956b5a6de7384
+      internalID: 68423201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a15e04758275a4ab8515fb63026653
+      internalID: -1039720349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 40
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d457c2a062ae22640b9ce037da97a868
+      internalID: -205590086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 39
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c79c5ce64084843a14b3c5ebb5eab2
+      internalID: 1264576966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_40
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 38
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019f03e6c7a65344d8d7cbec560d58ec
+      internalID: 593290136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 39
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff987b0027c89524d900720d0407c595
+      internalID: -371760752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 39
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f1ef3022ea564392cd4d408e355ed
+      internalID: -1238412724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97630258c00972d4581cac7bc3071125
+      internalID: -791690900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 40
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf77e7072fb7fc4196bc4c88741d50d
+      internalID: 1214026311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_45
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 38
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c45a5a9b9feb47be11f1b0f57f281
+      internalID: -901459456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116869e5277f3344dbe4479c535f4213
+      internalID: 1335875571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85432f85ac1cd5742a2328ef5c531631
+      internalID: -222473651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 15
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab0cc30adf42cb4fb55527e7ed344cb
+      internalID: 1370252946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f264dc0d759308d4890a1eb70adff36c
+      internalID: -390756308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29395ab9635944d906f05a3c166087
+      internalID: -1326048260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 14
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b529cc8252cd46b028fe2fa19136f
+      internalID: 1801474716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87327ed725ac7b468914c057668b7c2
+      internalID: 1484541020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 16
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a338f47ba9a8fdb4a913b190ef9a2eba
+      internalID: -696678828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9c028c5a9c96b479286eb14c4e7748
+      internalID: 1424213920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 15
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f54975caca1534188d695f6b82dd77
+      internalID: 533717518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 14
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbc1b7e7248d56428a2d2310952ef07
+      internalID: 1152238813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_57
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 14
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52e8da94fe24f4ea332c1808463f82
+      internalID: -1346564757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Artifacts_58
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 14
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7d96b676dd1064aac210bd285a7830
+      internalID: -1447344484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Artifacts_0: 581639515
+      PC Computer - Stardew Valley - Artifacts_1: 1286615200
+      PC Computer - Stardew Valley - Artifacts_10: 1547099098
+      PC Computer - Stardew Valley - Artifacts_11: 87829196
+      PC Computer - Stardew Valley - Artifacts_12: -359895138
+      PC Computer - Stardew Valley - Artifacts_13: -613734475
+      PC Computer - Stardew Valley - Artifacts_14: -950399471
+      PC Computer - Stardew Valley - Artifacts_15: -1148010014
+      PC Computer - Stardew Valley - Artifacts_16: -2046938073
+      PC Computer - Stardew Valley - Artifacts_17: 1074757142
+      PC Computer - Stardew Valley - Artifacts_18: -471872031
+      PC Computer - Stardew Valley - Artifacts_19: 1875338627
+      PC Computer - Stardew Valley - Artifacts_2: -173530195
+      PC Computer - Stardew Valley - Artifacts_20: 1754316323
+      PC Computer - Stardew Valley - Artifacts_21: -112427858
+      PC Computer - Stardew Valley - Artifacts_22: 676265093
+      PC Computer - Stardew Valley - Artifacts_23: 2138059569
+      PC Computer - Stardew Valley - Artifacts_24: 1129617725
+      PC Computer - Stardew Valley - Artifacts_25: 1645928246
+      PC Computer - Stardew Valley - Artifacts_26: 1318437827
+      PC Computer - Stardew Valley - Artifacts_27: 98919155
+      PC Computer - Stardew Valley - Artifacts_28: 645453681
+      PC Computer - Stardew Valley - Artifacts_29: 1265467165
+      PC Computer - Stardew Valley - Artifacts_3: -1752302417
+      PC Computer - Stardew Valley - Artifacts_30: -1459110577
+      PC Computer - Stardew Valley - Artifacts_31: 1150897179
+      PC Computer - Stardew Valley - Artifacts_32: 318807934
+      PC Computer - Stardew Valley - Artifacts_33: 124261481
+      PC Computer - Stardew Valley - Artifacts_34: 2003021916
+      PC Computer - Stardew Valley - Artifacts_35: 1334051460
+      PC Computer - Stardew Valley - Artifacts_36: 68423201
+      PC Computer - Stardew Valley - Artifacts_37: -1039720349
+      PC Computer - Stardew Valley - Artifacts_38: -205590086
+      PC Computer - Stardew Valley - Artifacts_39: 1264576966
+      PC Computer - Stardew Valley - Artifacts_4: 203833268
+      PC Computer - Stardew Valley - Artifacts_40: 593290136
+      PC Computer - Stardew Valley - Artifacts_41: -371760752
+      PC Computer - Stardew Valley - Artifacts_42: -1238412724
+      PC Computer - Stardew Valley - Artifacts_43: -791690900
+      PC Computer - Stardew Valley - Artifacts_44: 1214026311
+      PC Computer - Stardew Valley - Artifacts_45: -901459456
+      PC Computer - Stardew Valley - Artifacts_46: 1335875571
+      PC Computer - Stardew Valley - Artifacts_47: -222473651
+      PC Computer - Stardew Valley - Artifacts_48: 1370252946
+      PC Computer - Stardew Valley - Artifacts_49: -390756308
+      PC Computer - Stardew Valley - Artifacts_5: -1748726057
+      PC Computer - Stardew Valley - Artifacts_50: -1326048260
+      PC Computer - Stardew Valley - Artifacts_51: 1801474716
+      PC Computer - Stardew Valley - Artifacts_52: 1484541020
+      PC Computer - Stardew Valley - Artifacts_53: -696678828
+      PC Computer - Stardew Valley - Artifacts_54: 1424213920
+      PC Computer - Stardew Valley - Artifacts_55: 533717518
+      PC Computer - Stardew Valley - Artifacts_56: 1152238813
+      PC Computer - Stardew Valley - Artifacts_57: -1346564757
+      PC Computer - Stardew Valley - Artifacts_58: -1447344484
+      PC Computer - Stardew Valley - Artifacts_6: 2113101615
+      PC Computer - Stardew Valley - Artifacts_7: -99823875
+      PC Computer - Stardew Valley - Artifacts_8: 1655416077
+      PC Computer - Stardew Valley - Artifacts_9: -2107535699
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
